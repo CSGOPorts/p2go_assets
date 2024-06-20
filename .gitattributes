@@ -1,0 +1,8 @@
+# https://stackoverflow.com/a/42135910
+* text=auto eol=lf
+platform/shaders/fxc/flesh_ps30.vcs filter=lfs diff=lfs merge=lfs -text
+platform/shaders/fxc/lightmapped_4wayblend_ps30.vcs filter=lfs diff=lfs merge=lfs -text
+platform/shaders/fxc/phong_ps30.vcs filter=lfs diff=lfs merge=lfs -text
+platform/shaders/fxc/vertexlit_sob_ps30.vcs filter=lfs diff=lfs merge=lfs -text
+platform/shaders/fxc/character_ps30.vcs filter=lfs diff=lfs merge=lfs -text
+platform/shaders/fxc/lightmappedgeneric_ps30.vcs filter=lfs diff=lfs merge=lfs -text
